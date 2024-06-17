@@ -1,0 +1,14 @@
+C:\Users\tackom001\Desktop\shape\Shape.cs\bin\Debug\net8.0\Shape.cs.exe
+C:\Users\tackom001\Desktop\shape\Shape.cs\bin\Debug\net8.0\Shape.cs.deps.json
+C:\Users\tackom001\Desktop\shape\Shape.cs\bin\Debug\net8.0\Shape.cs.runtimeconfig.json
+C:\Users\tackom001\Desktop\shape\Shape.cs\bin\Debug\net8.0\Shape.cs.dll
+C:\Users\tackom001\Desktop\shape\Shape.cs\bin\Debug\net8.0\Shape.cs.pdb
+C:\Users\tackom001\Desktop\shape\Shape.cs\obj\Debug\net8.0\Shape.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tackom001\Desktop\shape\Shape.cs\obj\Debug\net8.0\Shape.cs.AssemblyInfoInputs.cache
+C:\Users\tackom001\Desktop\shape\Shape.cs\obj\Debug\net8.0\Shape.cs.AssemblyInfo.cs
+C:\Users\tackom001\Desktop\shape\Shape.cs\obj\Debug\net8.0\Shape.cs.csproj.CoreCompileInputs.cache
+C:\Users\tackom001\Desktop\shape\Shape.cs\obj\Debug\net8.0\Shape.cs.dll
+C:\Users\tackom001\Desktop\shape\Shape.cs\obj\Debug\net8.0\refint\Shape.cs.dll
+C:\Users\tackom001\Desktop\shape\Shape.cs\obj\Debug\net8.0\Shape.cs.pdb
+C:\Users\tackom001\Desktop\shape\Shape.cs\obj\Debug\net8.0\Shape.cs.genruntimeconfig.cache
+C:\Users\tackom001\Desktop\shape\Shape.cs\obj\Debug\net8.0\ref\Shape.cs.dll
