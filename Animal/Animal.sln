@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal.cs", "Animal.cs\Animal.cs.csproj", "{0B84185D-6B0E-4780-A576-1904DA934184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shape.cs", "..\shape\Shape.cs\Shape.cs.csproj", "{5F3779FC-CE15-47E6-B9EE-3ED14BCA9EA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Immovable.cs", "..\Immovable\Immovable.cs\Immovable.cs.csproj", "{1FDB56F9-0B9D-4D08-87B7-4668340F624C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B84185D-6B0E-4780-A576-1904DA934184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B84185D-6B0E-4780-A576-1904DA934184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B84185D-6B0E-4780-A576-1904DA934184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B84185D-6B0E-4780-A576-1904DA934184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F3779FC-CE15-47E6-B9EE-3ED14BCA9EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3779FC-CE15-47E6-B9EE-3ED14BCA9EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F3779FC-CE15-47E6-B9EE-3ED14BCA9EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F3779FC-CE15-47E6-B9EE-3ED14BCA9EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FDB56F9-0B9D-4D08-87B7-4668340F624C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FDB56F9-0B9D-4D08-87B7-4668340F624C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FDB56F9-0B9D-4D08-87B7-4668340F624C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FDB56F9-0B9D-4D08-87B7-4668340F624C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

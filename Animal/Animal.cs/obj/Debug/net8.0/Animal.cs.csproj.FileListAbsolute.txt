@@ -1,0 +1,14 @@
+C:\Users\tackom001\Desktop\Animal\Animal.cs\bin\Debug\net8.0\Animal.cs.exe
+C:\Users\tackom001\Desktop\Animal\Animal.cs\bin\Debug\net8.0\Animal.cs.deps.json
+C:\Users\tackom001\Desktop\Animal\Animal.cs\bin\Debug\net8.0\Animal.cs.runtimeconfig.json
+C:\Users\tackom001\Desktop\Animal\Animal.cs\bin\Debug\net8.0\Animal.cs.dll
+C:\Users\tackom001\Desktop\Animal\Animal.cs\bin\Debug\net8.0\Animal.cs.pdb
+C:\Users\tackom001\Desktop\Animal\Animal.cs\obj\Debug\net8.0\Animal.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tackom001\Desktop\Animal\Animal.cs\obj\Debug\net8.0\Animal.cs.AssemblyInfoInputs.cache
+C:\Users\tackom001\Desktop\Animal\Animal.cs\obj\Debug\net8.0\Animal.cs.AssemblyInfo.cs
+C:\Users\tackom001\Desktop\Animal\Animal.cs\obj\Debug\net8.0\Animal.cs.csproj.CoreCompileInputs.cache
+C:\Users\tackom001\Desktop\Animal\Animal.cs\obj\Debug\net8.0\Animal.cs.dll
+C:\Users\tackom001\Desktop\Animal\Animal.cs\obj\Debug\net8.0\refint\Animal.cs.dll
+C:\Users\tackom001\Desktop\Animal\Animal.cs\obj\Debug\net8.0\Animal.cs.pdb
+C:\Users\tackom001\Desktop\Animal\Animal.cs\obj\Debug\net8.0\Animal.cs.genruntimeconfig.cache
+C:\Users\tackom001\Desktop\Animal\Animal.cs\obj\Debug\net8.0\ref\Animal.cs.dll
